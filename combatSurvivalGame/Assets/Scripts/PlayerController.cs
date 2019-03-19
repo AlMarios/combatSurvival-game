@@ -39,8 +39,9 @@ public class PlayerController : MonoBehaviour
 
     void FixedUpdate()
     {
+        /* Horizontal move */
         float h = Input.GetAxisRaw("Horizontal");
-        anim.SetFloat("");
+        anim.SetFloat("Velociado", h);
 
     }
 }
