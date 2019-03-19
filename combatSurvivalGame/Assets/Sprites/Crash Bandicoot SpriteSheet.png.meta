@@ -1,0 +1,803 @@
+fileFormatVersion: 2
+guid: b05aa2be64b767544b17d7c6d20daa5c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Crash Bandicoot SpriteSheet_0
+    21300002: Crash Bandicoot SpriteSheet_1
+    21300004: Crash Bandicoot SpriteSheet_2
+    21300006: Crash Bandicoot SpriteSheet_3
+    21300008: Crash Bandicoot SpriteSheet_4
+    21300010: Crash Bandicoot SpriteSheet_5
+    21300012: Crash Bandicoot SpriteSheet_6
+    21300014: Crash Bandicoot SpriteSheet_7
+    21300016: Crash Bandicoot SpriteSheet_8
+    21300018: Crash Bandicoot SpriteSheet_9
+    21300020: Crash Bandicoot SpriteSheet_10
+    21300022: Crash Bandicoot SpriteSheet_11
+    21300024: Crash Bandicoot SpriteSheet_12
+    21300026: Crash Bandicoot SpriteSheet_13
+    21300028: Crash Bandicoot SpriteSheet_14
+    21300030: Crash Bandicoot SpriteSheet_15
+    21300032: Crash Bandicoot SpriteSheet_16
+    21300034: Crash Bandicoot SpriteSheet_17
+    21300036: Crash Bandicoot SpriteSheet_18
+    21300038: Crash Bandicoot SpriteSheet_19
+    21300040: Crash Bandicoot SpriteSheet_20
+    21300042: Crash Bandicoot SpriteSheet_21
+    21300044: Crash Bandicoot SpriteSheet_22
+    21300046: Crash Bandicoot SpriteSheet_23
+    21300048: Crash Bandicoot SpriteSheet_24
+    21300050: Crash Bandicoot SpriteSheet_25
+    21300052: Crash Bandicoot SpriteSheet_26
+    21300054: Crash Bandicoot SpriteSheet_27
+    21300056: Crash Bandicoot SpriteSheet_28
+    21300058: Crash Bandicoot SpriteSheet_29
+    21300060: Crash Bandicoot SpriteSheet_30
+    21300062: Crash Bandicoot SpriteSheet_31
+    21300064: Crash Bandicoot SpriteSheet_32
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Crash Bandicoot SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 290
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c599128a87d6a5643afbda992da1377b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crash Bandicoot SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 290
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d50848ecda99344a8dd67ab96f0b39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crash Bandicoot SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 290
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e16ffe378d6660469a788d817e2bb62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crash Bandicoot SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 290
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b237a4d8324df694db91198b57aa14c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crash Bandicoot SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 290
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859e7552aae55e642b4c7b5dcdffd8ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crash Bandicoot SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 290
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07a816331168544da284ade1473fa48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crash Bandicoot SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 290
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370a235a00d4e2243b0d9a7ab32df5d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crash Bandicoot SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 290
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a598f953c24f1e94e88961b42e766c3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crash Bandicoot SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 290
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10c9d009911f3a4a8f2356aa17926c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crash Bandicoot SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 229
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa3a5171f00197428544d1ea59034ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crash Bandicoot SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 229
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0bd7b1f087d3245beea15f77b4a990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crash Bandicoot SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 225
+        width: 21
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb70a142a961b7b40a085d44fb10109c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crash Bandicoot SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 226
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4006b0cd56194c647a45c0308b3fe731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crash Bandicoot SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 227
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8420b66e866874ea27a15d86794890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crash Bandicoot SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 159
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd4b105885c6bf408a386d52015fe86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crash Bandicoot SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 165
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f83204d8d8016043aaf2e9f3900a82e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crash Bandicoot SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 161
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc932791806869343a8ff7c387fce007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crash Bandicoot SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 160
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10997251a0904294d922900e5895d1eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crash Bandicoot SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 160
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7602295eee14b74ca61ead7f023b9ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crash Bandicoot SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 165
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fe1f1725dfaed47b8bc417a5372fde
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crash Bandicoot SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 161
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331b33a463d103c40a2bda0e72e7defb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crash Bandicoot SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 161
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e328d7a7742ec645b74bea66e5c64d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crash Bandicoot SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 92
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ff979b377806c41a321cbe7cac50d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crash Bandicoot SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 97
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca7b41302542a145bce42f655177f00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crash Bandicoot SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 97
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9824b838952fafe4c9cbec172be3b677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crash Bandicoot SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 95
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d3a140600bec64680349b6eda1ba47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crash Bandicoot SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 94
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45493198516ea564b92e5fc0b1f162dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crash Bandicoot SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 95
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f197d72977293f94b8c1d77c1ed9b517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crash Bandicoot SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 96
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d487fd18d2ddfe441bcdc2e35e4e15b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crash Bandicoot SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 24
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ab7ceb1a684d84ea52efb4b5a36067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crash Bandicoot SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 24
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6723627ef47f6a340a4f6dd490fa882c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crash Bandicoot SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 24
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd983ac7c20db24458bd6e3c76c6c08a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crash Bandicoot SpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 23
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dddee922467b1b44fbe33095a1ed81c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a8a41b5661766904380f3c3796ba2ac4
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
