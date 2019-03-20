@@ -30,17 +30,18 @@ public class PlayerController : MonoBehaviour
         
         /* Jump */
         if(Input.GetButtonDown("Jump") && noChao)
+
         {
             jump = true;
             anim.SetTrigger("pullou"); // jump animation
         }
-
     }
 
     void FixedUpdate()
     {
         /* Horizontal move */
         float h = Input.GetAxisRaw("Horizontal");
+
         anim.SetFloat("Velociado", Mathf.Abs(h));
 
         rb.velocity = new Vector2(h * speed, rb.velocity.y);
